@@ -1,5 +1,3 @@
-###### WIP
-
 
 from PySide import QtGui
 import maya.cmds as cmds
